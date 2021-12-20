@@ -8,4 +8,5 @@ Jupyter Notebook, Tensorflow 2.x, Keras, IPyhon, Matplot, Numpy
 chest X-ray data download from Kaggle:
 
 https://www.kaggle.com/tolgadincer/labeled-chest-xray-images
+
 https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
